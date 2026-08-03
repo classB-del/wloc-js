@@ -1,0 +1,12 @@
+{
+  "name": "wloc-vercel",
+  "version": "1.0.0",
+  "description": "WLOC 虚拟定位 - Vercel 部署版",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "vercel": "^37.0.0"
+  }
+}
